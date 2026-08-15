@@ -20,7 +20,36 @@ The followings were programmatically engineered using Excel formulars to enhance
 
 * **Farm Size Classification ("Column N"):** Categorized landholdings into *Smallholder* , *Medium-Scale* , or *Commercial* using nested statements.
 *  **Harvest Schedule Flag ("Column O"):** Evaluated operational timelines against target dates to flag distribution delays.
-*  **Loan Eligibility Status ("Column P"):** Combined conditional evaluations("AND") checking for strong repayment history and sustainable land sizes($\geg$ 2 hectares).
+*  **Loan Eligibility Status ("Column P"):** Combined conditional evaluations("AND") checking for strong repayment history and sustainable land sizes( 2 hectares).
 *  **Days to Harvest ("Column Q"):** Subtracted planting timelines from harvest dates to isolate crop growth durations.
 *  **Metadata Extraction ("Column R & S"):** Used text manipulation ("LEFT" and "MID") to cleanly isolate region and crop codes embedded within FarmerIDs.
 *  **Data Hygiene Scrubber ("Column T"):** Utilized text trimming functions to permanently eliminate irregular and messy whitespaces.
+-----
+
+## Executive Insights & Key Metrics
+
+### Key Date Metrics
+* **Cooperative Registration Window:** Earliest registration:**04/01/2023** | Most recent registration : **19/06/2025**.
+* **Peak Operational Window:** **June** recorded the highest operational volume with a total of **24 harvests**.
+
+### Yield & Financial Summary
+| Metric Description | Calculated Value | Analytics Function Used |
+| :--- | :--- | :--- | 
+| **Total Quantity Harvested (Maize)** | 2,947,880 kg | 'SUMIF' |
+| **Average Quantity Harvested** | 368,485 kg | 'AVERAGEIF' |
+| **Peak Single-Farm Yield** | 889,900 kg | 'MAXIFS |
+| **Minimum Single-Farm Yield** | 74, 560 kg | 'MINIFS |
+| **Total Loan Volume Disbursed** | 4,456,00 kg | 'SUMIF'| 
+
+### Regional Farmer Distribution
+* **North Central (NC):** 22 Farmers
+* **North East (NE):** 27 Farmers
+* **North West (NW):** 41 Farmers
+* **South East (SE):** 43 Farmers
+* **South West(SW):** 36 Farmers
+
+----
+##Let's Connect!
+Thank  you for exploring my project. I am actively building my portfolio in Data Analytics.
+* **Linkedin:** [Precious Emoh]()
+* **Email:** emohbeloved@gmail.com
