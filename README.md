@@ -13,7 +13,7 @@ By transforming this raw agricultural raw data, this project unlocks three criti
 
 ## Repository Structure
 * [agritech_farm_data.xlsx](agritech_farm_data_.xlsx): The primary processed excel workbook containing engineered feature columns.
-* [README.md](README.md):Project documentation, business logic and execcutive insights.
+* [README.md](README.md): Project documentation, business logic and executive insights.
 ---
 ## Data Engineering & Feature Columns
 The followings were programmatically engineered using Excel formulars to enhance the raw dataset:
