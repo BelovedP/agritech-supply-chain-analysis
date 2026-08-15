@@ -12,7 +12,7 @@ By transforming this raw agricultural raw data, this project unlocks three criti
 ![Processed Data Dashboard](dashboard.png)
 
 ## Repository Structure
-* [agritech_farm_data.xlsx] (agritech_farm_data_.xlsx):  The primary processed excel workbook containing engineered feature columns.
+* [agritech_farm_data.xlsx](agritech_farm_data_.xlsx): The primary processed excel workbook containing engineered feature columns.
 * [README.md](README.md):Project documentation, business logic and execcutive insights.
 ---
 ## Data Engineering & Feature Columns
@@ -29,7 +29,7 @@ The followings were programmatically engineered using Excel formulars to enhance
 ## Executive Insights & Key Metrics
 
 ### Key Date Metrics
-* **Cooperative Registration Window:** Earliest registration:**04/01/2023** | Most recent registration : **19/06/2025**.
+* **Cooperative Registration Window:** Earliest registration: **04/01/2023** | Most recent registration : **19/06/2025**.
 * **Peak Operational Window:** **June** recorded the highest operational volume with a total of **24 harvests**.
 
 ### Yield & Financial Summary
@@ -49,7 +49,7 @@ The followings were programmatically engineered using Excel formulars to enhance
 * **South West(SW):** 36 Farmers
 
 ----
-##**Let's Connect!**
+##  Let's Connect!
 Thank you for exploring my project. I am actively building my portfolio in Data Analytics.
 * **LinkedIn:** [Precious Emoh] (www.linkedin.com/in/precious-emoh)
 * **Email:** emohbeloved@gmail.com
