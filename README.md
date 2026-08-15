@@ -18,9 +18,9 @@ By transforming this raw agricultural raw data, this project unlocks three criti
 ## Data Engineering & Feature Columns
 The followings were programmatically engineered using Excel formulars to enhance the raw dataset:
 
-* **Farm Size Classification ('Column N'): ** Categorized landholdings into *Smallholder* , *Medium-Scale* , or *Commercial* using nested statements.
-*  **Harvest Schedule Flag (Column O): ** Evaluated operational timelines against target dates to flag distribution delays.
-*  **Loan Eligibility Status (Column P): ** Combined conditional evaluations('AND') checking for strong repayment history and sustainable land sizes($\geg$ 2 hectares).
-*  **Days to Harvest (Column Q): ** Subtracted planting timelines from harvest dates to isolate crop growth durations.
-*  **Metadata Extraction (Column R & S): ** Used text manipulation ('LEFT' and 'MID') to cleanly isolate region and crop codes embedded within FarmerIDs.
-*  **Data Hygiene Scrubber ('Column T): ** Utilized text trimming functions to permanently eliminate irregular and messy whitespaces.
+* **Farm Size Classification ('Column N'):** Categorized landholdings into *Smallholder* , *Medium-Scale* , or *Commercial* using nested statements.
+*  **Harvest Schedule Flag (Column O):** Evaluated operational timelines against target dates to flag distribution delays.
+*  **Loan Eligibility Status (Column P):** Combined conditional evaluations('AND') checking for strong repayment history and sustainable land sizes($\geg$ 2 hectares).
+*  **Days to Harvest (Column Q):** Subtracted planting timelines from harvest dates to isolate crop growth durations.
+*  **Metadata Extraction (Column R & S):** Used text manipulation ('LEFT' and 'MID') to cleanly isolate region and crop codes embedded within FarmerIDs.
+*  **Data Hygiene Scrubber ('Column T):** Utilized text trimming functions to permanently eliminate irregular and messy whitespaces.
