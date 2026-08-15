@@ -49,7 +49,7 @@ The followings were programmatically engineered using Excel formulars to enhance
 * **South West(SW):** 36 Farmers
 
 ----
-##Let's Connect!
-Thank  you for exploring my project. I am actively building my portfolio in Data Analytics.
-* **Linkedin:** [Precious Emoh]()
+##**Let's Connect!**
+Thank you for exploring my project. I am actively building my portfolio in Data Analytics.
+* **LinkedIn:** [Precious Emoh] (www.linkedin.com/in/precious-emoh)
 * **Email:** emohbeloved@gmail.com
